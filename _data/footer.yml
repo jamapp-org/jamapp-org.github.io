@@ -9,6 +9,9 @@
   - name: Releases
     link: https://github.com/joinmarket-webui/jam/releases
     new_window: true
+  - name: License
+    link: https://github.com/joinmarket-webui/jam/software/license
+    new_window: true
   - name: Docs
     link: https://jamdocs.org/
     new_window: true
