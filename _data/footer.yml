@@ -1,39 +1,27 @@
 - links:
-  - name: Pricing
-    link: /pricing/
-  - name: Blog
-    link: /blog/
-  - name: About
-    link: /about/
+  - name: Getting Started
+    link: https://jamdocs.org/
   - name: Contact
-    link: /contact/
+    link: https://jamdocs.org/contribute/
+  - name: About
+    link: https://jamdocs.org/about/
 - links:
-  - name: Login
-    link: /
-    new_window: true
-  - name: Sign Up
-    link: /
+  - name: Releases
+    link: https://github.com/joinmarket-webui/jam/releases
     new_window: true
   - name: Docs
-    link: /
-    new_window: true
-  - name: Status
-    link: /
+    link: https://jamdocs.org/
     new_window: true
 - links:
-  - name: Facebook
-    link: https://facebook.com/cloudcannon/
-    new_window: true
-    social_icon: Facebook
-  - name: Twitter
-    link: https://twitter.com/cloudcannon/
-    social_icon: Twitter
-    new_window: true
-  - name: YouTube
-    link: https://youtube.com/cloudcannon/
+  - name: BitcoinTV
+    link: https://bitcointv.com/search?search=jam%20joinmarket
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
+  - name: Twitter
+    link: https://twitter.com/jamapporg/
+    social_icon: Twitter
+    new_window: true
+  - name: Matrix
+    link: https://matrix.to/#/%23jam:matrix.dergigi.com
     social_icon: RSS
-    new_window: false
+    new_window: true
