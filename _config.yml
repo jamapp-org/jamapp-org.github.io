@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Jam - Privacy for Yourself and Others
+url: "https://jamapp.org"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -14,11 +14,11 @@ description: Product marketing template for Jekyll.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: jamapporg
 social:
-  name: Hydra Template
+  name: Jam
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/joinmarket-webui/jam
 
 # -----
 # Build
@@ -86,14 +86,8 @@ exclude:
 
 _select_data:
   social_icons:
-    - Facebook
-    - Instagram
-    - LinkedIn
-    - Pinterest
-    - Tumblr
+    - GitHub
     - Twitter
-    - YouTube
-    - RSS
 
 _comments:
   map: Update the map location and display settings.
