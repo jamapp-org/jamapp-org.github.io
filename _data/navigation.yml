@@ -10,10 +10,6 @@
   link: https://jamdocs.org/about/
   new_window: true
   highlight: false
-- name: Contact
-  link: https://jamdocs.org/contribute/
-  new_window: true
-  highlight: false
 - name: Install
   link: https://jamdocs.org/software/installation/
   new_window: true
