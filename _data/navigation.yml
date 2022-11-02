@@ -2,6 +2,10 @@
   link: https://jamdocs.org
   new_window: true
   highlight: false
+- name: Code
+  link: https://github.com/joinmarket-webui/jam/
+  new_window: true
+  highlight: false
 - name: Social
   link: https://twitter.com/jamapporg
   new_window: true
