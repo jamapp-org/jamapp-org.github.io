@@ -23,6 +23,10 @@
     link: https://bitcointv.com/search?search=jam%20joinmarket
     social_icon: YouTube
     new_window: true
+  - name: GitHub
+    link: https://github.com/joinmarket-webui/jam/
+    social_icon: GitHub
+    new_window: true
   - name: Twitter
     link: https://twitter.com/jamapporg/
     social_icon: Twitter
