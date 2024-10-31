@@ -14,7 +14,7 @@ description: Product marketing template for Jekyll.
 author:
   name:
   email:
-  twitter: jamapporg
+  nostr: npub1jamj9l9vsrra9m58y6syyjvfcf85wvev7pm3vvwqkr0e8vzdyhsqvhw852
 social:
   name: Jam
   links:
@@ -87,7 +87,6 @@ exclude:
 _select_data:
   social_icons:
     - GitHub
-    - Twitter
 
 _comments:
   map: Update the map location and display settings.
